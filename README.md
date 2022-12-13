@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# blog-site
 
-## Getting Started
+- Author: Hayden Cleaver
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This will be a fully functional blog/forum for games, and will likely grow to encompass the topic of movies, books, and other forms of entertainment.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It will have a main page that displays news/blog posts regarding the form of entertainment that you have selected.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+There will also be a series of forums where people can create their own topics for discussion and users can upvote or downvote topics like stackoverflow, Reddit, or other similar sites.  Users will be able to sort topics by upvotes or how new the post is.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Goals
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The aim is to continue learning about Next.js and to improve my style skills.  The site will likely only be deployed for proof of life.
 
-## Learn More
+## How-to-start
 
-To learn more about Next.js, take a look at the following resources:
+## Wireframes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## UMLs
